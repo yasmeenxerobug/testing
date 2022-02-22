@@ -1,0 +1,15 @@
+{
+    "name": "yasmeenxerobug/testing",
+    "authors": [
+        {
+            "name": "testing"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev",
+     "autoload": {
+        "psr-4": {
+            "testing\\":"src/"
+        }
+    }
+}
